@@ -62,6 +62,6 @@ public class Principal{
         System.out.println("Média de peças fabricadas pelas mulheres: " + media_f);
         System.out.println("Número do operário ou operária de maior salário: " + num_maior);
 
-        scanner.close();
+        
     }
 }
